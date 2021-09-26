@@ -1,0 +1,11 @@
+/node_modules
+package-lock.json
+.vscode
+yarn.lock
+
+/Local/node_modules
+/CDN/node_modules
+/Local/package-lock.json
+/Local/yarn.lock
+/CDN/yarn.lock
+/Local/.vscode
